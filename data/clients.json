@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1728212177316,
+    "name": "client1",
+    "slug": "client1",
+    "email": "client1@gmail.com",
+    "company": "Test",
+    "notes": "test note"
+  },
+  {
+    "id": 1728212386152,
+    "name": "client2",
+    "slug": "client2",
+    "email": "client2@gmail.com",
+    "company": "Abc Ltd",
+    "notes": ""
+  },
+  {
+    "id": 1728215209227,
+    "name": "client3",
+    "slug": "client3",
+    "email": "Test@mail.com",
+    "company": "Abc Ltd",
+    "notes": "Something"
+  },
+  {
+    "id": 1737523772421,
+    "name": "gagan",
+    "slug": "gagan",
+    "email": "gagan@gmail.com",
+    "company": "gagan limited",
+    "notes": "abc xyz"
+  },
+  {
+    "id": 1737526104918,
+    "name": "abc",
+    "slug": "abc",
+    "email": "abc@gmail.com",
+    "company": "abc",
+    "notes": "xyz"
+  }
+]
